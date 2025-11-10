@@ -5,7 +5,7 @@
 static int fpsLimitValue = 1000;
 
 // プロパティ名
-#define FPSLIMITNAME L"fpslimit"
+#define FPSLIMITNAME TJS_W("fpslimit")
 
 /*
  * fps の制限値の参照用のプロパティ
